@@ -2,7 +2,7 @@ public class Main{
   public static void main(String[] args){
     String title = "定期連絡";
     String address = "aa@a";
-    String text = "明日は雨";
+    String text = "明日は雨です。";
     email(title, address, text);
   }
   public static void email(String title, String address, String text){
